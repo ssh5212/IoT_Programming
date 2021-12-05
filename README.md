@@ -13,8 +13,7 @@
 ## 개발 환경
 ### 언어
 - Python 2.7.0
-- C Language
-- Arduino Language (C++)
+- C++ (Arduino)
 
 ### 프레임워크 및 라이브러리
 - Kakao API (REST API)
