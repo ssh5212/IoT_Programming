@@ -24,7 +24,7 @@
 - Visual Studio Code 1.56.0
 - PyCharm Professional 2021-2 (Community)
 - Arduino IDE 1.8.16 (Windows Store 1.8.51.0)
-### 기타
 
 ## 완성본
+![20211129_012938](https://user-images.githubusercontent.com/26498125/144749753-a1bd3cef-6d3f-4098-91f1-8470f5959a8b.jpg)
 https://www.youtube.com/watch?v=3V-tx3BIDqI
