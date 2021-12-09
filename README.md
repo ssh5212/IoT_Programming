@@ -17,6 +17,7 @@
 
 ### 프레임워크 및 라이브러리
 - Kakao API (REST API)
+- OpenCV
 
 ### 개발 환경 & IDE
 - Windows 10
