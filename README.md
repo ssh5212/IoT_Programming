@@ -27,4 +27,4 @@
 
 ## 완성본
 ![20211129_012938](https://user-images.githubusercontent.com/26498125/144749753-a1bd3cef-6d3f-4098-91f1-8470f5959a8b.jpg)
-https://www.youtube.com/watch?v=3V-tx3BIDqI
+- YouTube Link : https://www.youtube.com/watch?v=3V-tx3BIDqI
